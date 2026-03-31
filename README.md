@@ -1,6 +1,8 @@
 # pnardl_r
 Panel Nonlinear Autoregressive Distributed Lag (ARDL) (Panel NARDL) Use pnardl (ardlverse) With (In) R Software
 
+https://www.youtube.com/watch?v=2eUjT5fTkjc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
